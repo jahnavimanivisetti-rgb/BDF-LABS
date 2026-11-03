@@ -18,7 +18,7 @@ Live link: [PENDING — add public URL after deployment]
 ### 2. Installation
 Navigate into the `lab-03` directory and install dependencies:
 ```bash
-cd lab-03
+cd "lab files/lab-03"
 npm install
 ```
 

@@ -16,7 +16,7 @@ This repository contains the laboratory assignments for the **Backend Developmen
 |---|---|---|
 | [`lab files/lab-01/`](./lab%20files/lab-01/) | **Lab 1:** Node.js and Express Server | Completed |
 | [`lab files/lab-02/`](./lab%20files/lab-02/) | **Lab 2:** SQLite Database and CRUD Routes | Completed |
-| [`lab-03/`](./lab-03/) | **Lab 3:** REST API, Query Parameters, Validation, Debugging | Completed |
+| [`lab files/lab-03/`](./lab%20files/lab-03/) | **Lab 3:** REST API, Query Parameters, Validation, Debugging | Completed |
 
 ---
 

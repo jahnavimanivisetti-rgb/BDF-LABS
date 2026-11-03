@@ -103,7 +103,7 @@ function Render-TerminalCard {
     Write-Host "Generated: $OutputPath"
 }
 
-$dest = "C:\Users\JAHNAVI\OneDrive\Desktop\intership project\lab-03\screenshots"
+$dest = Join-Path $PSScriptRoot "screenshots"
 
 # 01-get-all-books.png
 Render-TerminalCard -Title "API Execution - GET /books (Retrieve All Books with Defaults)" `
