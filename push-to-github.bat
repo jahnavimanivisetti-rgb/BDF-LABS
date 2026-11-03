@@ -2,7 +2,7 @@
 title Push Course Repository to GitHub
 echo ========================================================
 echo Pushing Course Labs to GitHub...
-echo Repository: https://github.com/jahnavimanivisetti-rgb/lab-1
+echo Repository: https://github.com/jahnavimanivisetti-rgb/BDF-LABS
 echo ========================================================
 echo.
 
@@ -15,7 +15,7 @@ if %ERRORLEVEL% equ 0 (
     echo ========================================================
     echo SUCCESS: Pushed to GitHub successfully!
     echo You can now refresh your GitHub page:
-    echo https://github.com/jahnavimanivisetti-rgb/lab-1
+    echo https://github.com/jahnavimanivisetti-rgb/BDF-LABS
     echo ========================================================
 ) else (
     echo ========================================================
